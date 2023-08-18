@@ -1,0 +1,48 @@
+Contenu PortFolio
+
+- Stage 1 et 2
+- Projet 1 et 2
+- Projet personnel (systèmes et programmation)
+- CV
+- Page contact 
+
+Outils à utiliser 
+- Figma
+- HTML CSS JS (si le temps le permet, pq pas un peu de base de données)
+
+Où héberger le site ?
+
+Police d'écriture
+	- Google Fonts
+
+
+balise
+	- nav (menu)
+
+Raccourcis
+	
+	- div.bloc-menu*7
+	
+	= 
+	<div class="bloc-menu"></div>
+        <div class="bloc-menu"></div>
+        <div class="bloc-menu"></div>
+        <div class="bloc-menu"></div>
+        <div class="bloc-menu"></div>
+        <div class="bloc-menu"></div>
+        <div class="bloc-menu"></div>
+
+Au début de chaque fichier CSS
+	- Faire un reset CSS
+
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+px = pixel
+vh = viewport heigth - donc écran (exemple: si 100vh, 100% de l'écran)
+
+
+vidéo 7
